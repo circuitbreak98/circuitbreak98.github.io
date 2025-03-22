@@ -30,7 +30,7 @@ twitter_username:
 github_username:  circuitbreak98
 
 # Build settings
-theme: Tactile
+theme: minima
 plugins:
   - jekyll-feed
 
